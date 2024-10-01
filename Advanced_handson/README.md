@@ -70,7 +70,7 @@ Link to the notebook.
 
 <a name="mia"></a>
 ## Session of Thursday, 14h00/15h45
-**Multi-instrument joint analysis** : statistical limitations to combine DL3 and DL5 products
+**Multi-instrument joint analysis** : statistical limitations to combine DL3 and DL5 products, SWGO and X-ray analysis?
 
 Made by XXX (lab, city). Location : room XXX, Observatoire de Meudon
 
