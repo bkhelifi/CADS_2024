@@ -27,7 +27,7 @@ Link to the presentation.
 ## Session of Wednesday, 11h15/12h30
 **Data structure and IRFs** : datastore, observation handling, IRFs
 
-Made by XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by XXX (lab, city) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -36,7 +36,7 @@ Link to the notebook.
 **Simple 3D source analysis** : data reduction with FoV bkg, exclusion mask, measuring source significance,
 exploring fit results, morphology and spectral parameters.
 
-Made by XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by XXX (lab, city) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -45,7 +45,7 @@ Link to the notebook.
 **Spectral analysis** : data reduction with bkg measurement in OFF regions, simple spectral 
 modeling/fitting, confidence calculation, flux points extraction.
 
-Made by XXXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by XXXX (lab, city) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -53,7 +53,7 @@ Link to the notebook.
 ## Session of Thursday, 9h30/10h45
 **Timing analysis** : creating a light curve for a time variable source
 
-Made by XXXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by XXXX (lab, city) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -61,7 +61,7 @@ Link to the notebook.
 ## Session of Thursday, 11h15/12h30
 **Simulations** : faking datasets, full event wise simulations
 
-Made by XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by XXX (lab, city) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -70,7 +70,7 @@ Link to the notebook.
 **Multi-instrument joint analysis** : the joint-crab, fitting with a physically motivated model 
 (e.g. IC)
 
-Made by XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by XXX (lab, city) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -78,6 +78,6 @@ Link to the notebook.
 ## Session of Thursday, 16h15/18h
 **Systematic uncertainties** : user defined models, priors and nuisance parameters. 
 
-Made by XXXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by XXXX (lab, city) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
 
 Link to the notebook.
