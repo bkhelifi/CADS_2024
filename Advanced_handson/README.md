@@ -53,9 +53,9 @@ Link to the notebook.
 
 <a name="time"></a>
 ## Session of Thursday, 9h30/10h45
-**Timing analysis** : exploration of the new algorithms that will appear in the v1.3
+**Timing analysis**: exploration of the new algorithms that will appear in the v1.3
 
-Made by XXXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Claudio (LUTh, Meudon). Location : room XXX, Observatoire de Meudon
 
 Link to the notebook.
 
