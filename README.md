@@ -11,6 +11,7 @@
 4. [Introduction to TeV data analysis](#tev-data)
 5. [Gammapy hands-on sessions](#hands-on)
 6. [User session](#user)
+7. [Legal notice](#notice)
 
 <a name="scope"></a>
 ## Overview
@@ -68,3 +69,13 @@ Imaging Atmospheric Cherenkov Telescopes (IACTs). This presentation will cover p
 the next steps in the analysis.
 
 - XXX
+
+<a name="notice"></a>
+## Legal notice
+All contributors of these pages has agreed with the term of the [BSD-3-Clause license](./LICENSE) of this repository.
+
+In addition, all material will be archived into the universal [Software Heritage](https://www.softwareheritage.org/) 
+archive. The SWHID identification number is 
+[swh:1:dir:1765812ea4eb1772b6e7d3cfd8ba614e41c05f34](https://archive.softwareheritage.org/swh:1:dir:1765812ea4eb1772b6e7d3cfd8ba614e41c05f34;origin=https://github.com/bkhelifi/CADS_2024;visit=swh:1:snp:7777427b11073033caf0c0a513e00efbf9ed6b26;anchor=swh:1:rev:012705bd0e8d7eb5dcb796ccaa6dc4e498fa0928).
+
+
