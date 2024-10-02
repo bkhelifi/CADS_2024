@@ -53,7 +53,7 @@ Link to the notebook.
 ## Session of Thursday, 9h30/10h45
 **Timing analysis** : creating a light curve for a time variable source
 
-Made by XXXX (lab, city) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Jean-Philippe Lenain (LPNHE, Paris) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -78,6 +78,6 @@ Link to the notebook.
 ## Session of Thursday, 16h15/18h
 **Systematic uncertainties** : user defined models, priors and nuisance parameters. 
 
-Made by XXXX (lab, city) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Jean-Philippe Lenain (LPNHE, Paris) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
 
 Link to the notebook.
