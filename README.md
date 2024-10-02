@@ -7,14 +7,14 @@
 ## Table of contents
 1. [Overview](#scope)
 2. [Introduction to high-energy astrophysics](#HEA)
-3. [Introduction to high-energy observatories](#HEO)
+3. [Introduction to TeV gamma-ray detection](#HEO)
 4. [Introduction to TeV data analysis](#tev-data)
 5. [Gammapy hands-on sessions](#hands-on)
 6. [User session](#user)
 7. [Legal notice](#notice)
 
 <a name="scope"></a>
-## Overview
+## 1. Overview
 One-week school on gamma-ray astronomy organized at the Observatoire de Paris, designed for PhD 
 students/postdocs/researchers eager to learn about gamma-ray astronomy data and the specific challenges of ground-based
 Cherenkov observations and of high-energy data analysis. The science analysis tool [Gammapy](https://gammapy.org/), 
@@ -25,25 +25,40 @@ Paris, in Paris and Meudon.
 The indico page is https://indico.obspm.fr/event/2480/overview.
 
 <a name="HEA"></a>
-## Introduction to high-energy astrophysics
-Made by S. Gabici (APC, Paris) and M. Cerruti (APC, Paris)
+## 2. Introduction to high-energy astrophysics
 
-Location: xxxx
+### Radiative processes (TBC)
+Made by S. Gabici (APC, Paris) - Monday 14th, 14h/15h30, Salle Denisse at the Observatoire de Paris
+Link to the presentation
+
+### Galactic sources (TBC)
+Made by S. Gabici (APC, Paris) - Monday 14th, 16h/17h30, Salle Denisse at the Observatoire de Paris
+Link to the presentation
+
+### Extragalactic sources (TBC)
+Made by M. Cerruti (APC, Paris) - Tuesday 14th, 9h30/11h00, Salle du Conseil at the Observatoire de Paris
+Link to the presentation
+
 
 <a name="HEO"></a>
-## Introduction to high-energy observatories
-Made by Frederica Bradascio (IJCLab, Orsay) and Jonathan Biteau (IJCLab, Orsay)
-
-Location: xxxxx
+## 3. Introduction to TeV gamma-ray detection
+Made by Frederica Bradascio (IJCLab, Orsay) - Tuesday 14th, 11h15/12h45, Salle du Conseil at the Observatoire de Paris
+Link to the presentation
 
 <a name="tev-data"></a>
-## Introduction to TeV data analysis
-Made by Frederica Bradascio (IJCLab, Orsay) and Jonathan Biteau (IJCLab, Orsay)
+## 4. Introduction to TeV data analysis
+Made by Jonathan Biteau (IJCLab, Orsay)
 
-Location: xxxxx
+### TeV data specificities (TBC)
+Link to the presentation
+
+### Statistics of the analysis of Cherenkov data (TBC)
+Link to the presentation
+
+
 
 <a name="hands-on"></a>
-## Gammapy hands-on sessions
+## 5. Gammapy hands-on sessions
 Location: xxxx
 
 The hands-on session will be organised for two different groups:
@@ -51,7 +66,7 @@ The hands-on session will be organised for two different groups:
 - the advanced users : [material page](Advanced_handson/README.md)
 
 <a name="user"></a>
-## User session
+## 6. User session
 Location: xxxx
 
 Questions and discussion on specific projects:
@@ -71,7 +86,7 @@ the next steps in the analysis.
 - XXX
 
 <a name="notice"></a>
-## Legal notice
+## 7. Legal notice
 All contributors of these pages has agreed with the term of the [BSD-3-Clause license](./LICENSE) of this repository.
 
 In addition, all material will be archived into the universal [Software Heritage](https://www.softwareheritage.org/) 
