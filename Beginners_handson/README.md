@@ -19,7 +19,7 @@ The used Gammapy version will be the **v1.2**. See the installation page
 ## Session of Wednesday, 9h30/10h45
 **Introduction to the Gammapy library** and the data analysis workflow.
 
-Made by Kirsty (APC, Paris)????. Location : room XXX, Observatoire de Meudon
+Made by Kirsty Feijen (APC, Paris). Location : room XXX, Observatoire de Meudon
 
 Link to the presentation.
 
