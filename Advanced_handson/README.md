@@ -17,10 +17,10 @@ The used Gammapy version will be the **v1.2**. See the installation page
 
 <a name="intro"></a>
 ## Session of Wednesday, 9h30/10h45
-** Gammapy in depth** : the data analysis workflow, the GADF data format, makers and estimators, models and catalogs, 
+**Gammapy in depth** : the data analysis workflow, the GADF data format, makers and estimators, models and catalogs, 
 multi-processing (multi-core and multi-CPU), etc.
 
-Made by Atreyee (UCM, Madrid)????. Location : room XXX, Observatoire de Meudon
+Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudon
 
 Link to the presentation.
 
@@ -28,7 +28,7 @@ Link to the presentation.
 ## Session of Wednesday, 11h15/12h30
 **Data structure and IRFs** : datastore, observation handling, (non-symmetric) IRFs, Dataset, DL5
 
-Made by XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -37,7 +37,7 @@ Link to the notebook.
 **Complex 3D source analysis** : exclusion masks and systematics, complex models (template, naima, priors, etc),
 exploring fit results in depth, extracting flux points for one source model
 
-Made by XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -47,7 +47,7 @@ Link to the notebook.
 OFF observations, spectral modeling/fitting with overlapping sources, confidence calculation, flux points extraction 
 and use of likelihood profiles
 
-Made by XXXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -55,7 +55,7 @@ Link to the notebook.
 ## Session of Thursday, 9h30/10h45
 **Timing analysis**: exploration of the new algorithms that will appear in the v1.3
 
-Made by Claudio Galelli (LUTh, Meudon). Location : room XXX, Observatoire de Meudon
+Made by Claudio Galelli (LUTh, Meudon). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -64,15 +64,15 @@ Link to the notebook.
 **Simulations** : faking datasets with complex sources (pulsar, template model), creation of an hdu-table and an 
 obs-table
 
-Made by XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
 <a name="mia"></a>
 ## Session of Thursday, 14h00/15h45
-**Multi-instrument joint analysis** : statistical limitations to combine DL3 and DL5 products, SWGO and X-ray analysis?
+**Multi-instrument joint analysis** : joint crab analusis, statistical limitations to combine DL3 and DL5 products, HAWC tricks
 
-Made by XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -80,6 +80,6 @@ Link to the notebook.
 ## Session of Thursday, 16h15/18h
 **Systematic uncertainties** : IRFs bracketing, multi-processing 
 
-Made by XXXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
