@@ -19,7 +19,7 @@ The used Gammapy version will be the **v1.2**. See the installation page
 ## Session of Wednesday, 9h30/10h45
 **Introduction to the Gammapy library** and the data analysis workflow.
 
-Made by Kirsty Feijen (APC, Paris). Location : room XXX, Observatoire de Meudon
+Made by Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 Link to the presentation.
 
@@ -27,7 +27,7 @@ Link to the presentation.
 ## Session of Wednesday, 11h15/12h30
 **Data structure and IRFs** : datastore, observation handling, IRFs
 
-Made by XXX (lab, city) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Maxime Regeard (APC, Paris) and Claudio Galelli (LUTh, Meudon). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -36,7 +36,7 @@ Link to the notebook.
 **Simple 3D source analysis** : data reduction with FoV bkg, exclusion mask, measuring source significance,
 exploring fit results, morphology and spectral parameters.
 
-Made by XXX (lab, city) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Kirsty Feijen (APC, Paris) and Maxime Regeard (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -45,7 +45,7 @@ Link to the notebook.
 **Spectral analysis** : data reduction with bkg measurement in OFF regions, simple spectral 
 modeling/fitting, confidence calculation, flux points extraction.
 
-Made by XXXX (lab, city) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Claudio Galelli (LUTh, Meudon) and Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -53,7 +53,7 @@ Link to the notebook.
 ## Session of Thursday, 9h30/10h45
 **Timing analysis** : creating a light curve for a time variable source
 
-Made by Jean-Philippe Lenain (LPNHE, Paris) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Maxime Regeard (APC, Paris) and Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -61,16 +61,16 @@ Link to the notebook.
 ## Session of Thursday, 11h15/12h30
 **Simulations** : faking datasets, full event wise simulations
 
-Made by XXX (lab, city) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Kirsty Feijen (APC, Paris) and Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
 <a name="mia"></a>
 ## Session of Thursday, 14h00/15h45
-**Multi-instrument joint analysis** : the joint-crab, fitting with a physically motivated model 
+**Multi-instrument joint analysis** : joint PKS2155-304 analysis, fitting with a physically motivated model 
 (e.g. IC)
 
-Made by XXX (lab, city) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Maxime Regeard (APC, Paris) and Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -78,6 +78,6 @@ Link to the notebook.
 ## Session of Thursday, 16h15/18h
 **Systematic uncertainties** : user defined models, priors and nuisance parameters. 
 
-Made by Jean-Philippe Lenain (LPNHE, Paris) and XXX (lab, city). Location : room XXX, Observatoire de Meudon
+Made by Jean-Philippe Lenain (LPNHE, Paris) and Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
