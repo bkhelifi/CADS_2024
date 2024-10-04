@@ -45,7 +45,7 @@ Link to the notebook.
 **Spectral analysis** : data reduction with bkg measurement in OFF regions, simple spectral 
 modeling/fitting, confidence calculation, flux points extraction.
 
-Made by Claudio Galelli (LUTh, Meudon) and Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
+Made by Maxime Regeard (APC, Paris) and Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -53,7 +53,7 @@ Link to the notebook.
 ## Session of Thursday, 9h30/10h45
 **Timing analysis** : creating a light curve for a time variable source
 
-Made by Maxime Regeard (APC, Paris) and Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Made by Claudio Galelli (LUTh, Meudon) and Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
