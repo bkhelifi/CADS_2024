@@ -41,7 +41,7 @@ Link to the presentation
 
 
 <a name="HEO"></a>
-## 3. Introduction to TeV gamma-ray detection
+## 3. Detection and reconstruction of extensive air showers
 Made by Frederica Bradascio (IJCLab, Orsay) - Tuesday 14th, 11h15/12h45, Salle du Conseil at the Observatoire de Paris
 Link to the presentation
 
@@ -49,10 +49,10 @@ Link to the presentation
 ## 4. Introduction to TeV data analysis
 Made by Jonathan Biteau (IJCLab, Orsay)
 
-### TeV data specificities (TBC)
+### From detection to high-level reconstruction - A statistical view on gamma-ray sources - 1
 Link to the presentation
 
-### Statistics of the analysis of Cherenkov data (TBC)
+### From detection to high-level reconstruction - A statistical view on gamma-ray sources - 2
 Link to the presentation
 
 
