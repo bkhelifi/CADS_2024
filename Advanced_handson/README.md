@@ -53,14 +53,6 @@ Link to the notebook.
 
 <a name="time"></a>
 ## Session of Thursday, 9h30/10h45
-**Timing analysis**: exploration of the new algorithms that will appear in the v1.3
-
-Made by Claudio Galelli (LUTh, Meudon). Location : room CIAS, Observatoire de Meudon
-
-Link to the notebook.
-
-<a name="simu"></a>
-## Session of Thursday, 11h15/12h30
 **Simulations** : faking datasets with complex sources (pulsar, template model), creation of an hdu-table and an 
 obs-table
 
@@ -68,11 +60,20 @@ Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de M
 
 Link to the notebook.
 
-<a name="mia"></a>
-## Session of Thursday, 14h00/15h45
+<a name="simu"></a>
+## Session of Thursday, 11h15/12h30
 **Multi-instrument joint analysis** : joint crab analusis, statistical limitations to combine DL3 and DL5 products, HAWC tricks
 
 Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
+
+Link to the notebook.
+
+<a name="mia"></a>
+## Session of Thursday, 14h00/15h45
+
+**Timing analysis**: More time-domain algorithms, PSD handling.
+
+Made by Claudio Galelli (LUTh, Meudon). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
