@@ -42,7 +42,7 @@ Link to the presentation
 
 <a name="HEO"></a>
 ## 3. Detection and reconstruction of extensive air showers
-Made by Frederica Bradascio (IJCLab, Orsay) - Tuesday 14th, 11h15/12h45, Salle du Conseil at the Observatoire de Paris
+Made by Federica Bradascio (IJCLab, Orsay) - Tuesday 14th, 11h15/12h45, Salle du Conseil at the Observatoire de Paris
 Link to the presentation
 
 <a name="tev-data"></a>
