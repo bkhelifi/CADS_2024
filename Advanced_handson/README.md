@@ -26,7 +26,7 @@ Link to the presentation.
 
 <a name="data"></a>
 ## Session of Wednesday, 11h15/12h30
-**Data structure and IRFs** : datastore, observation handling, (non-symmetric) IRFs, Dataset, DL5
+**IRFs and Data reductions** : observation handling, (non-symmetric) IRFs, safe mask, exclusion masks, background fitting
 
 Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
@@ -34,20 +34,19 @@ Link to the notebook.
 
 <a name="tdana"></a>
 ## Session of Wednesday, 14h00/15h45
-**Complex 3D source analysis** : exclusion masks and systematics, complex models (template, naima, priors, etc),
-exploring fit results in depth, extracting flux points for one source model
-
-Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
-
-Link to the notebook.
-
-<a name="spec"></a>
-## Session of Wednesday, 16h15/18h
 **Spectral analysis** : point-source and full-containment IRFs, data reduction with bkg measurement in OFF regions or 
 OFF observations, spectral modeling/fitting with overlapping sources, confidence calculation, flux points extraction 
 and use of likelihood profiles
 
 Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudon
+
+Link to the notebook.
+
+
+<a name="spec"></a>
+## Session of Wednesday, 16h15/18h
+**Multi-instrument joint analysis** : joint crab analysis, limitations to combine different instruments, performance tricks, multi-processing 
+Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
 
@@ -62,7 +61,8 @@ Link to the notebook.
 
 <a name="simu"></a>
 ## Session of Thursday, 11h15/12h30
-**Multi-instrument joint analysis** : joint crab analysis, statistical limitations to combine DL3 and DL5 products, performance tricks
+**Complex 3D source analysis** : complex models (diffuse template, naima, priors, etc), systematics,
+exploring fit results in depth, multi-processing, extracting flux points for one source model
 
 Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
@@ -79,7 +79,7 @@ Link to the notebook.
 
 <a name="syst"></a>
 ## Session of Thursday, 16h15/18h
-**Systematic uncertainties** : IRFs bracketing, multi-processing 
+**Systematic uncertainties** : IRFs bracketing
 
 Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudon
 
