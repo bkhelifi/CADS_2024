@@ -8,11 +8,11 @@ The used Gammapy version will be the **v1.2**. See the installation page
 ## Table of contents
 1. [Gammapy in depth](#intro)
 2. [Data structure](#data)
-3. [Simple 3D source analysis](#tdana)
-4. [Spectral analysis](#spec)
-5. [Timing analysis](#time)
+3. [Spectral analysis](#spec)
+4. [Multi-instrument joint analysis](#mia)
+5. [Complex 3D source analysis](#tdana)
 6. [Simulations](#simu)
-7. [Multi-instrument joint analysis](#mia)
+7. [Timing analysis](#time)
 8. [Systematic uncertainties](#syst)
 
 <a name="intro"></a>
