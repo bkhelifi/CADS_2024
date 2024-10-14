@@ -26,7 +26,7 @@ Link to the presentation.
 
 <a name="data"></a>
 ## Session of Wednesday, 11h15/12h30
-**IRFs and Data reductions** : observation handling, (non-symmetric) IRFs, safe mask, exclusion masks, background fitting
+**IRFs and Data reduction** : observation handling, (non-symmetric) IRFs, safe mask, exclusion masks, background fitting
 
 Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
