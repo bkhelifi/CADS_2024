@@ -62,7 +62,7 @@ Link to the notebook.
 
 <a name="simu"></a>
 ## Session of Thursday, 11h15/12h30
-**Multi-instrument joint analysis** : joint crab analusis, statistical limitations to combine DL3 and DL5 products, HAWC tricks
+**Multi-instrument joint analysis** : joint crab analysis, statistical limitations to combine DL3 and DL5 products, performance tricks
 
 Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
