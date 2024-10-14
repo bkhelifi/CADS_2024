@@ -7,7 +7,7 @@ The used Gammapy version will be the **v1.2**. See the installation page
 
 ## Table of contents
 1. [Gammapy in depth](#intro)
-2. [Data structure](#data)
+2. [IRFs and Data reduction](#data)
 3. [Spectral analysis](#spec)
 4. [Multi-instrument joint analysis](#mia)
 5. [Complex 3D source analysis](#tdana)
