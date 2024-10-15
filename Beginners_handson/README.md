@@ -1,6 +1,6 @@
 # Hands-on sessions for the beginners
 
-The used Gammapy version will be the **v1.2**. See the installation page 
+The used Gammapy version will be the **v1.2**. See the installation page
 [here](https://docs.gammapy.org/1.2/getting-started/install.html).
 
 ## Table of contents
@@ -40,12 +40,12 @@ Link to the notebook.
 
 <a name="spec"></a>
 ## Session of Wednesday, 16h15/18h
-**Spectral analysis** : data reduction with bkg measurement in OFF regions, simple spectral 
+**Spectral analysis** : data reduction with bkg measurement in OFF regions, simple spectral
 modeling/fitting, confidence calculation, flux points extraction.
 
 Made by Maxime Regeard (APC, Paris) and Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-Link to the notebook.
+[Notebook](4.\ Spectral\ analysis/1D_spectral.ipynb).
 
 <a name="time"></a>
 ## Session of Thursday, 9h30/10h45
@@ -65,7 +65,7 @@ Link to the notebook.
 
 <a name="mia"></a>
 ## Session of Thursday, 14h00/15h45
-**Multi-instrument joint analysis** : joint PKS2155-304 analysis, fitting with a physically motivated model 
+**Multi-instrument joint analysis** : joint PKS2155-304 analysis, fitting with a physically motivated model
 (e.g. IC)
 
 Made by Maxime Regeard (APC, Paris) and Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
@@ -74,7 +74,7 @@ Link to the notebook.
 
 <a name="syst"></a>
 ## Session of Thursday, 16h15/18h
-**Systematic uncertainties** : user defined models, priors and nuisance parameters. 
+**Systematic uncertainties** : user defined models, priors and nuisance parameters.
 
 Made by Jean-Philippe Lenain (LPNHE, Paris) and Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
