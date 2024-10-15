@@ -59,7 +59,7 @@ Made by Jonathan Biteau (IJCLab, Orsay)
 
 <a name="hands-on"></a>
 ## 5. Gammapy hands-on sessions
-Location: xxxx
+Location: Meudon
 
 The hands-on session will be organised for two different groups:
 - the beginner users : [material page](Beginners_handson/README.md)
@@ -67,7 +67,7 @@ The hands-on session will be organised for two different groups:
 
 <a name="user"></a>
 ## 6. User session
-Location: xxxx
+Location: Paris
 
 Questions and discussion on specific projects:
 - **Stellar arachnology at the highest energies: Identifying potential targets to CTAO**, by Livia Silva Rocha
