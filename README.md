@@ -49,13 +49,13 @@ Link to the presentation
 ## 4. Introduction to TeV data analysis
 Made by Jonathan Biteau (IJCLab, Orsay)
 
+[NPAC_Statistics-1.pdf](https://github.com/user-attachments/files/17377930/NPAC_Statistics-1.pdf)
+
+[CADS_Statistics_2024.pdf](https://github.com/user-attachments/files/17377941/CADS_Statistics_2024.pdf)
+
 ### From detection to high-level reconstruction - A statistical view on gamma-ray sources - 1
-Link to the presentation
 
 ### From detection to high-level reconstruction - A statistical view on gamma-ray sources - 2
-Link to the presentation
-
-
 
 <a name="hands-on"></a>
 ## 5. Gammapy hands-on sessions
