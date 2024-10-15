@@ -43,15 +43,16 @@ Link to the presentation
 <a name="HEO"></a>
 ## 3. Detection and reconstruction of extensive air showers
 Made by Federica Bradascio (IJCLab, Orsay) - Tuesday 14th, 11h15/12h45, Salle du Conseil at the Observatoire de Paris
-Link to the presentation
+
+[Link to the presentation](https://github.com/user-attachments/files/17380886/fbradascio_eas_detection_cads_school_2024.pdf)
 
 <a name="tev-data"></a>
 ## 4. Introduction to TeV data analysis
 Made by Jonathan Biteau (IJCLab, Orsay)
 
-[NPAC_Statistics-1.pdf](https://github.com/user-attachments/files/17377930/NPAC_Statistics-1.pdf)
+[NPAC Master course](https://github.com/user-attachments/files/17377930/NPAC_Statistics-1.pdf)
 
-[CADS_Statistics_2024.pdf](https://github.com/user-attachments/files/17377941/CADS_Statistics_2024.pdf)
+[Link to the presentation](https://github.com/user-attachments/files/17377941/CADS_Statistics_2024.pdf)
 
 ### From detection to high-level reconstruction - A statistical view on gamma-ray sources - 1
 
