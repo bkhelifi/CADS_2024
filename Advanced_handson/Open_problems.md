@@ -23,8 +23,8 @@ refer to https://docs.gammapy.org/dev/tutorials/api/catalog.html#sphx-glr-tutori
 - Load the PKS-2155 observations from the HESS DL3-dr1 published in GAMMAPY-DATA
 - Split the relevant observations as finely as possible
 - Create the geometry that will be used by the `LightCurveEstimator`
-- Define a threshold condition of your choice that will define your binning.
+- Define a threshold condition of your choice that will define your binning. A good starting point could be a threshold on the TS of the fit on the dataset stack.
 - Create datasets from your observations and models and stack them according to the chosen condition.
 - Perform the lightcurve estimation
-  - Try to fine-tune the condition to find an optimal situation
+  - Try to fine-tune the stacking condition or find an alternative proposal to highlight variability in the curve.
   - Does the choice change if you perform time-resolved spectroscopy instead of simply estimating the lightcurve?
