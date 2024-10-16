@@ -22,7 +22,7 @@ multi-processing (multi-core and multi-CPU), etc.
 
 Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudon
 
-[link to the notebook](./1_introduction.ipynb).
+[link to the notebook](1_introduction.ipynb).
 
 <a name="data"></a>
 ## Session of Wednesday, 11h15/12h30
