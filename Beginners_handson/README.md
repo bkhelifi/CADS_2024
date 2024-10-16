@@ -45,7 +45,7 @@ modeling/fitting, confidence calculation, flux points extraction.
 
 Made by Maxime Regeard (APC, Paris) and Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-[Notebook](4_Spectral_analysis/1D_spectral.ipynb).
+[Notebook](<4. Spectral analysis/1D_spectral.ipynb>).
 
 <a name="time"></a>
 ## Session of Thursday, 9h30/10h45
