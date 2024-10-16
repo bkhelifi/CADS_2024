@@ -22,7 +22,7 @@ multi-processing (multi-core and multi-CPU), etc.
 
 Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudon
 
-[link to the notebook](1_introduction.ipynb).
+[link to the notebook](1_Introduction.ipynb).
 
 <a name="data"></a>
 ## Session of Wednesday, 11h15/12h30
@@ -30,7 +30,9 @@ Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudo
 
 Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
-Link to the notebook.
+[Link to the notebook](1_Introduction.ipynb).
+
+[Link to open problems](Open_problems.md).
 
 <a name="tdana"></a>
 ## Session of Wednesday, 14h00/15h45
@@ -40,15 +42,17 @@ and use of likelihood profiles
 
 Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudon
 
-Link to the notebook.
-
+[Link to the notebook)(2_irfs_properties_dataset_creation.ipynb).
 
 <a name="spec"></a>
 ## Session of Wednesday, 16h15/18h
 **Multi-instrument joint analysis** : joint crab analysis, limitations to combine different instruments, performance tricks, multi-processing 
 Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
-Link to the notebook.
+[Link to the notebook)(3_make_joint_crab_datasets.ipynb).
+
+[Link to the exercise)(4_EXERCISE_joint_crab_analysis.ipynb).
+
 
 <a name="time"></a>
 ## Session of Thursday, 9h30/10h45
@@ -57,8 +61,6 @@ obs-table
 
 Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
-Link to the notebook.
-
 <a name="simu"></a>
 ## Session of Thursday, 11h15/12h30
 **Complex 3D source analysis** : complex models (diffuse template, naima, priors, etc), systematics,
@@ -66,7 +68,7 @@ exploring fit results in depth, multi-processing, extracting flux points for one
 
 Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
-Link to the notebook.
+[Link to the exercise](5_EXERCISE_complex_region_3d_analysis_galactic_center.ipynb).
 
 <a name="mia"></a>
 ## Session of Thursday, 14h00/15h45
