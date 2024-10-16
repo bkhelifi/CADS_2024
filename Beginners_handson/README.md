@@ -78,4 +78,4 @@ Link to the notebook.
 
 Made by Jean-Philippe Lenain (LPNHE, Paris) and Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-[Notebook](<6. Systematic uncertainties/8. Systematic uncertainties - exercise.ipynb>).
+[Notebook](<8. Systematic uncertainties/8. Systematic uncertainties - exercise.ipynb>).
