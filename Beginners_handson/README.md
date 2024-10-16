@@ -25,7 +25,7 @@ Link to the presentation.
 ## Session of Wednesday, 11h15/12h30
 **Data structure and IRFs** : datastore, observation handling, IRFs
 
-Made by Maxime Regeard (APC, Paris) and Claudio Galelli (LUTh, Meudon). Location : room CIAS, Observatoire de Meudon
+Made by Regis Terrier (APC, Paris), Maxime Regeard (APC, Paris) and Claudio Galelli (LUTh, Meudon). Location : room CIAS, Observatoire de Meudon
 
 [Notebooks](<2. General API/>).
 
