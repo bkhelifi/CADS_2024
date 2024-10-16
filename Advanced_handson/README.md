@@ -54,10 +54,11 @@ Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de M
 
 <a name="time"></a>
 ## Session of Thursday, 9h30/10h45
-**Simulations** : faking datasets with complex sources (pulsar, template model), creation of an hdu-table and an 
-obs-table
+**Timing analysis**: More time-domain algorithms, PSD handling.
 
-Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
+Made by Claudio Galelli (LUTh, Meudon) and Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
+
+Link to the notebook.
 
 <a name="simu"></a>
 ## Session of Thursday, 11h15/12h30
@@ -70,17 +71,15 @@ Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de M
 
 <a name="mia"></a>
 ## Session of Thursday, 14h00/15h45
+**Simulations** : faking datasets with complex sources (pulsar, template model), creation of an hdu-table and an 
+obs-table
 
-**Timing analysis**: More time-domain algorithms, PSD handling.
-
-Made by Claudio Galelli (LUTh, Meudon). Location : room CIAS, Observatoire de Meudon
-
-Link to the notebook.
+Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudon
 
 <a name="syst"></a>
 ## Session of Thursday, 16h15/18h
-**Systematic uncertainties** : IRFs bracketing
+**Systematic uncertainties** :
 
-Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudon
+Made by Atreyee Sinha (UCM, Madrid) and Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
 Link to the notebook.
