@@ -36,7 +36,7 @@ exploring fit results, morphology and spectral parameters.
 
 Made by Kirsty Feijen (APC, Paris) and Maxime Regeard (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-Link to the notebook.
+[Notebook](<3. 3D analysis/3. 3D_analysis.ipynb>).
 
 <a name="spec"></a>
 ## Session of Wednesday, 16h15/18h
@@ -53,7 +53,7 @@ Made by Maxime Regeard (APC, Paris) and Kirsty Feijen (APC, Paris). Location : r
 
 Made by Claudio Galelli (LUTh, Meudon) and Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
 
-Link to the notebook.
+[Notebooks](<5. Timing analysis>).
 
 <a name="simu"></a>
 ## Session of Thursday, 11h15/12h30
@@ -78,4 +78,4 @@ Link to the notebook.
 
 Made by Jean-Philippe Lenain (LPNHE, Paris) and Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-Link to the notebook.
+[Notebook](<6. Systematic uncertainties/8. Systematic uncertainties - exercise.ipynb>).
