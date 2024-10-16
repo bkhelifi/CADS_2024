@@ -42,16 +42,16 @@ and use of likelihood profiles
 
 Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudon
 
-[Link to the notebook)(2_irfs_properties_dataset_creation.ipynb).
+[Link to the notebook](2_irfs_properties_dataset_creation.ipynb).
 
 <a name="spec"></a>
 ## Session of Wednesday, 16h15/18h
 **Multi-instrument joint analysis** : joint crab analysis, limitations to combine different instruments, performance tricks, multi-processing 
 Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
-[Link to the notebook)(3_make_joint_crab_datasets.ipynb).
+[Link to the notebook](3_make_joint_crab_datasets.ipynb).
 
-[Link to the exercise)(4_EXERCISE_joint_crab_analysis.ipynb).
+[Link to the exercise](4_EXERCISE_joint_crab_analysis.ipynb).
 
 
 <a name="time"></a>
