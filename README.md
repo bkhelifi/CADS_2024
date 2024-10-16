@@ -27,13 +27,15 @@ The indico page is https://indico.obspm.fr/event/2480/overview.
 <a name="HEA"></a>
 ## 2. Introduction to high-energy astrophysics
 
-### Radiative processes (TBC)
+### Radiative processes
 Made by S. Gabici (APC, Paris) - Monday 14th, 14h/15h30, Salle Denisse at the Observatoire de Paris
-Link to the presentation
+
+[Link to the presentation](https://github.com/user-attachments/files/17397631/RadiativeProcesses_SG_compressed.pdf)
 
 ### Galactic sources (TBC)
 Made by S. Gabici (APC, Paris) - Monday 14th, 16h/17h30, Salle Denisse at the Observatoire de Paris
-Link to the presentation
+
+[Link to the presentation](https://github.com/user-attachments/files/17397604/GalacticSources_SG_compressed.pdf)
 
 ### Extragalactic sources (TBC)
 Made by M. Cerruti (APC, Paris) - Tuesday 14th, 9h30/11h00, Salle du Conseil at the Observatoire de Paris
