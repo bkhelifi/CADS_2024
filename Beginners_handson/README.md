@@ -27,7 +27,7 @@ Link to the presentation.
 
 Made by Maxime Regeard (APC, Paris) and Claudio Galelli (LUTh, Meudon). Location : room CIAS, Observatoire de Meudon
 
-Link to the notebook.
+[Notebooks](<2. General API/>).
 
 <a name="tdana"></a>
 ## Session of Wednesday, 14h00/15h45
