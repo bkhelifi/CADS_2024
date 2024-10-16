@@ -30,19 +30,17 @@ Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudo
 
 Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
-[Link to the notebook](1_Introduction.ipynb).
+[Link to the notebook](2_irfs_properties_dataset_creation.ipynb).
 
 [Link to open problems](Open_problems.md).
 
 <a name="tdana"></a>
 ## Session of Wednesday, 14h00/15h45
-**Spectral analysis** : point-source and full-containment IRFs, data reduction with bkg measurement in OFF regions or 
-OFF observations, spectral modeling/fitting with overlapping sources, confidence calculation, flux points extraction 
-and use of likelihood profiles
+**Open problems**
 
 Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudon
 
-[Link to the notebook](2_irfs_properties_dataset_creation.ipynb).
+[Link to open problems](Open_problems.md).
 
 <a name="spec"></a>
 ## Session of Wednesday, 16h15/18h
