@@ -70,7 +70,7 @@ Made by Kirsty Feijen (APC, Paris) and Jean-Philippe Lenain (LPNHE, Paris). Loca
 
 Made by Maxime Regeard (APC, Paris) and Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-Link to the notebook.
+Link to the [notebook](7. Joint Fit>).
 
 <a name="syst"></a>
 ## Session of Thursday, 16h15/18h
