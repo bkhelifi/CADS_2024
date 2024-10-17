@@ -61,7 +61,7 @@ Made by Claudio Galelli (LUTh, Meudon) and Jean-Philippe Lenain (LPNHE, Paris). 
 
 Made by Kirsty Feijen (APC, Paris) and Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
 
-Link to the notebook.
+[Notebooks](<6. Simulations>).
 
 <a name="mia"></a>
 ## Session of Thursday, 14h00/15h45
