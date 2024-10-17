@@ -48,7 +48,7 @@ Made by Maxime Regeard (APC, Paris) and Kirsty Feijen (APC, Paris). Location : r
 [Notebook](<4. Spectral analysis/1D_spectral.ipynb>).
 
 <a name="time"></a>
-## Session of Thursday, 9h30/10h45
+## Session of Thursday, 9h30/10h45 (common for the advanced group)
 **Timing analysis** : creating a light curve for a time variable source
 
 Made by Claudio Galelli (LUTh, Meudon) and Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
