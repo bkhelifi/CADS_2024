@@ -57,7 +57,7 @@ Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de M
 
 Made by Claudio Galelli (LUTh, Meudon) and Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
 
-[Link to the notebooks](../Beginnders_handson/<5. Timing analysis>).
+[Link to the notebooks](../Beginners_handson/5.%20Timing%20analysis).
 
 ## Session of Thursday, 11h15/12h30
 **Timing analysis** : handling light curves
