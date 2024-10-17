@@ -8,12 +8,11 @@ The used Gammapy version will be the **v1.2**. See the installation page
 ## Table of contents
 1. [Gammapy in depth](#intro)
 2. [IRFs and Data reduction](#data)
-3. [Spectral analysis](#spec)
+3. [Creation of a mini catalog](#catalog)
 4. [Multi-instrument joint analysis](#mia)
-5. [Complex 3D source analysis](#tdana)
-6. [Simulations](#simu)
-7. [Timing analysis](#time)
-8. [Systematic uncertainties](#syst)
+5. [Timing analysis](#time)
+6. [Complex 3D source analysis](#tdana)
+7. [Systematic uncertainties](#syst)
 
 <a name="intro"></a>
 ## Session of Wednesday, 9h30/10h45
@@ -24,6 +23,8 @@ Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudo
 
 [link to the notebook](1_Introduction.ipynb).
 
+[Link to open problems](Open_problems.md).
+
 <a name="data"></a>
 ## Session of Wednesday, 11h15/12h30
 **IRFs and Data reduction** : observation handling, (non-symmetric) IRFs, safe mask, exclusion masks, background fitting
@@ -32,17 +33,15 @@ Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de M
 
 [Link to the notebook](2_irfs_properties_dataset_creation.ipynb).
 
-[Link to open problems](Open_problems.md).
-
-<a name="tdana"></a>
+<a name="catalog"></a>
 ## Session of Wednesday, 14h00/15h45
-**Open problems**
+**Creation of a mini catalog**
 
-Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudon
+Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
 [Link to open problems](Open_problems.md).
 
-<a name="spec"></a>
+<a name="mia"></a>
 ## Session of Wednesday, 16h15/18h
 **Multi-instrument joint analysis** : joint crab analysis, limitations to combine different instruments, performance tricks, multi-processing 
 Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
@@ -58,22 +57,25 @@ Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de M
 
 Made by Claudio Galelli (LUTh, Meudon) and Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
 
+[Link to the notebooks](../Beginnders_handson/5. Timing analysis).
 
-<a name="simu"></a>
 ## Session of Thursday, 11h15/12h30
+**Timing analysis** : handling light curves
+
+Made by Claudio Galelli (LUTh, Meudon) and Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
+
+[Link to open problems](Open_problems.md).
+
+Link to the solution
+
+<a name="tdana"></a>
+## Session of Thursday, 14h00/15h45
 **Complex 3D source analysis** : complex models (diffuse template, naima, priors, etc), systematics,
 exploring fit results in depth, multi-processing, extracting flux points for one source model
 
 Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de Meudon
 
 [Link to the exercise](5_EXERCISE_complex_region_3d_analysis_galactic_center.ipynb).
-
-<a name="mia"></a>
-## Session of Thursday, 14h00/15h45
-**Simulations** : faking datasets with complex sources (pulsar, template model), creation of an hdu-table and an 
-obs-table
-
-Made by Atreyee Sinha (UCM, Madrid). Location : room CIAS, Observatoire de Meudon
 
 <a name="syst"></a>
 ## Session of Thursday, 16h15/18h
