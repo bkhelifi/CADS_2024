@@ -53,12 +53,11 @@ Made by Quentin Remy (MPIK, Heidelberg). Location : room CIAS, Observatoire de M
 
 
 <a name="time"></a>
-## Session of Thursday, 9h30/10h45
-**Timing analysis**: More time-domain algorithms, PSD handling.
+## Session of Thursday, 9h30/10h45 (common for the begginder group)
+**Timing analysis** : creating a light curve for a time variable source
 
 Made by Claudio Galelli (LUTh, Meudon) and Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
 
-Link to the notebook.
 
 <a name="simu"></a>
 ## Session of Thursday, 11h15/12h30
