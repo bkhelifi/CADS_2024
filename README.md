@@ -86,6 +86,9 @@ computed spectral models, will then help identify the most promising sources for
 Imaging Atmospheric Cherenkov Telescopes (IACTs). This presentation will cover preliminary results, its challenges, and 
 the next steps in the analysis.
 
+[Presentation](https://github.com/user-attachments/files/17463906/CADS_Paris-18.10.24.pdf)
+
+
 - XXX
 
 <a name="notice"></a>
