@@ -19,7 +19,7 @@ The used Gammapy version will be the **v1.2**. See the installation page
 
 Made by Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-Link to the presentation.
+[Link to the presentation](<1. Introduction to Gammapy/>).
 
 <a name="data"></a>
 ## Session of Wednesday, 11h15/12h30
