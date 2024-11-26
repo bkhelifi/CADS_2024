@@ -30,7 +30,7 @@ The indico page is https://indico.obspm.fr/event/2480/overview.
 ### Radiative processes
 Made by S. Gabici (APC, Paris) - Monday 14th, 14h/15h30, Salle Denisse at the Observatoire de Paris
 
-[Link to the presentation](https://github.com/user-attachments/files/17397631/RadiativeProcesses_SG_compressed.pdf)
+[Link to the presentation](<Lectures/2a.RadiativeProcesses_SG_compressed.pdf>)
 
 ### Galactic sources (TBC)
 Made by S. Gabici (APC, Paris) - Monday 14th, 16h/17h30, Salle Denisse at the Observatoire de Paris
