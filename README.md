@@ -2,8 +2,6 @@
 
 ![CADS](Banner_CADS.png)
 
-**Disclaimer** : still under construction!
-
 ## Table of contents
 1. [Overview](#scope)
 2. [Introduction to high-energy astrophysics](#HEA)
@@ -35,34 +33,36 @@ Made by S. Gabici (APC, Paris) - Monday 14th, 14h/15h30, Salle Denisse at the Ob
 ### Galactic sources (TBC)
 Made by S. Gabici (APC, Paris) - Monday 14th, 16h/17h30, Salle Denisse at the Observatoire de Paris
 
-[Link to the presentation](https://github.com/user-attachments/files/17397604/GalacticSources_SG_compressed.pdf)
+[Link to the presentation](<Lectures/2b.GalacticSources_SG_compressed.pdf>)
 
 ### Extragalactic sources (TBC)
 Made by M. Cerruti (APC, Paris) - Tuesday 14th, 9h30/11h00, Salle du Conseil at the Observatoire de Paris
-Link to the presentation
+[Link to the presentation]
 
 
 <a name="HEO"></a>
 ## 3. Detection and reconstruction of extensive air showers
 Made by Federica Bradascio (IJCLab, Orsay) - Tuesday 14th, 11h15/12h45, Salle du Conseil at the Observatoire de Paris
 
-[Link to the presentation](https://github.com/user-attachments/files/17380886/fbradascio_eas_detection_cads_school_2024.pdf)
+[Link to the presentation](<Lectures/3a_gamma_detectors.pdf>)
 
 <a name="tev-data"></a>
 ## 4. Introduction to TeV data analysis
-Made by Jonathan Biteau (IJCLab, Orsay)
-
-[NPAC Master course](https://github.com/user-attachments/files/17377930/NPAC_Statistics-1.pdf)
-
-[Link to the presentation](https://github.com/user-attachments/files/17377941/CADS_Statistics_2024.pdf)
 
 ### From detection to high-level reconstruction - A statistical view on gamma-ray sources - 1
+Made by Jonathan Biteau (IJCLab, Orsay)  - Tuesday 14th, 14h00/15h30h, Salle Denisse at the Observatoire de Paris
 
 ### From detection to high-level reconstruction - A statistical view on gamma-ray sources - 2
+Made by Jonathan Biteau (IJCLab, Orsay)  - Tuesday 14th, 15h55/17h25h, Salle Danjon at the Observatoire de Paris
+
+[NPAC Master course](<Lectures/4b_elements_statistics_masters.pdf>)
+
+[Link to the presentation](<Lectures/4a_gamma_statistics.pdf>)
+
 
 <a name="hands-on"></a>
 ## 5. Gammapy hands-on sessions
-Location: Meudon
+Location: Salle CIAS, Meudon
 
 The hands-on session will be organised for two different groups:
 - the beginner users : [material page](Beginners_handson/README.md)
@@ -70,7 +70,7 @@ The hands-on session will be organised for two different groups:
 
 <a name="user"></a>
 ## 6. User session
-Location: Paris
+Location: Salle Danjon at the Observatoire de Paris
 
 Questions and discussion on specific projects:
 - **Stellar arachnology at the highest energies: Identifying potential targets to CTAO**, by Livia Silva Rocha
@@ -88,8 +88,6 @@ the next steps in the analysis.
 
 [Presentation](https://github.com/user-attachments/files/17463906/CADS_Paris-18.10.24.pdf)
 
-
-- XXX
 
 <a name="notice"></a>
 ## 7. Legal notice
